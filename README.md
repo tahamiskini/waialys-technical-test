@@ -37,7 +37,7 @@ Please read the following instructions **carefully**.
 1. Clone the repository
 
 ```bash
-git clone git@gitlab.com:adn-expertise/waialys-technical-test-harry-potter.git
+git clone https://github.com/tahamiskini/waialys-technical-test-harry-potter.git
 ```
 
 2. Install the dependencies
@@ -66,7 +66,7 @@ At your disposal, you have the following:
 
 ### Requirements
 
-You can see a live demo of the expected result here: [Click here](./assets/demo.mp4)
+You can see a live demo of the expected result here: [Click here](https://drive.google.com/drive/folders/1LqTVMfjHplyJsC6IoofV-ZBQdqiNicw3)
 
 > 🚨 **WARNING**
 >
