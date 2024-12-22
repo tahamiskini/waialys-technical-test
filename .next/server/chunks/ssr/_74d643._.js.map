@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/medya/Desktop/Projects/waialys-technical-test/src/app/books/%5B%20id%20%5D/page.tsx"],"sourcesContent":["'use client';\r\n\r\nimport React from 'react';\r\nexport const dynamic = 'force-dynamic';\r\n\r\n\r\nexport default function BookDescription({ params }: { params: { id: string } }) {\r\n  const { id } = params;\r\n  console.log('Params:', params.id);\r\n  return (\r\n    <div>\r\n      <h1>Book Description</h1>\r\n      <p>Book ID: {id}</p>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;AAAA;;AAGO,MAAM,UAAU;AAGR,SAAS,gBAAgB,EAAE,MAAM,EAA8B;IAC5E,MAAM,EAAE,EAAE,EAAE,GAAG;IACf,QAAQ,GAAG,CAAC,WAAW,OAAO,EAAE;IAChC,qBACE,6WAAC;;0BACC,6WAAC;0BAAG;;;;;;0BACJ,6WAAC;;oBAAE;oBAAU;;;;;;;;;;;;;AAGnB"}},
+    {"offset": {"line": 44, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 54, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/medya/Desktop/Projects/waialys-technical-test/node_modules/.pnpm/next%4015.1.0_react-dom%4019.0.0_react%4019.0.0__react%4019.0.0/node_modules/next/src/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = require('../../module.compiled').vendored[\n  'react-ssr'\n].ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":";AAAAA,OAAOC,OAAO,GAAGC,QAAQ,qMAAyBC,QAAQ,CACxD,YACD,CAACC,kBAAkB","ignoreList":[0]}},
+    {"offset": {"line": 56, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
