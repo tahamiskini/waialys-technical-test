@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/abbes/Desktop/ADN_Experise_Technical_Interview/waialys-technical-test-harry-potter/src/app/books/%5Bid%5D/page.tsx"],"sourcesContent":["\"use client\"\r\n\r\nimport * as Accordion from \"@radix-ui/react-accordion\";\r\n\r\n// Example to test if the accordion works\r\n<Accordion.Root type=\"single\" collapsible>\r\n  <Accordion.Item value=\"item-1\">\r\n    <Accordion.Trigger>Chapter 1</Accordion.Trigger>\r\n    <Accordion.Content>This is the content for chapter 1</Accordion.Content>\r\n  </Accordion.Item>\r\n</Accordion.Root>"],"names":[],"mappings":";;AAEA;AAFA;;;AAIA,yCAAyC;cACzC,4TAAC,+UAAU,IAAI;IAAC,MAAK;IAAS,WAAW;cACvC,cAAA,4TAAC,+UAAU,IAAI;QAAC,OAAM;;0BACpB,4TAAC,+UAAU,OAAO;0BAAC;;;;;;0BACnB,4TAAC,+UAAU,OAAO;0BAAC"}},
+    {"offset": {"line": 48, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
